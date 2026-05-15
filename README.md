@@ -15,3 +15,5 @@ Este proyecto es un script automatizado que genera 100,000 registros de personas
 5. Ejecutar el script principal:
    ```bash
    python main.py
+## Autor
+Desarrollado por Ivan para el curso de Bases de Datos para Ciencia de Datos.
