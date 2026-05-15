@@ -2,6 +2,7 @@ import os
 from dotenv import load_dotenv
 from sqlalchemy import create_engine, text
 from faker import Faker
+# Autor: Ivan Durango - Taller 3 Automatización
 
 def main():
     # 1. Cargamos las credenciales secretas desde el archivo .env
@@ -84,4 +85,3 @@ def main():
 # Bloque de ejecución como usted lo está pidiendo profe
 if __name__ == "__main__":
     main()
-    
